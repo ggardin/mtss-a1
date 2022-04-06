@@ -1,5 +1,6 @@
 2010003
 1230237
+## componenti
 processori.md
 schede_madri.md
 Elettronica Padovana
